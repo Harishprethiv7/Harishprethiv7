@@ -7,3 +7,5 @@
 🚀 Beyond coding, I'm an advocate for open-source development and believe in the power of collaborative innovation. You'll find my contributions to open-source projects, where I continue to learn and share my expertise with the global developer community.
 
 🌐 Let's connect and share our Android development experiences! Whether it's discussing the latest Android trends, collaborating on projects, or simply exchanging insights, I'm eager to engage with fellow Android enthusiasts and professionals. Explore my repositories, and please don't hesitate to reach out—I'm here to connect and grow together as I embark on my journey to pursue a master's degree in the USA
+
+<a href="www.linkedin.com/in/harish-prethiv">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
